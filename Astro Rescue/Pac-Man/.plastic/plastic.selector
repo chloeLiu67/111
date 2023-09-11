@@ -1,0 +1,4 @@
+repository "Pac-Man@wanghhhhh@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
