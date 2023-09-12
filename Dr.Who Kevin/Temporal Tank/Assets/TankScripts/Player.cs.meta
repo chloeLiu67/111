@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 30c6714fabe0d1d4e80f3d8664f6d458
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefabLeft: {fileID: 4750619927760095885, guid: 7e5438991ce22dd4bb2babbaa48d7583, type: 3}
+  - bulletPrefabRight: {fileID: 2620971764879271090, guid: d43949d263702d74b8bcfbb178164a49, type: 3}
+  - explosionPrefab: {instanceID: 0}
+  - defendEffectPrefab: {instanceID: 0}
+  - moveAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

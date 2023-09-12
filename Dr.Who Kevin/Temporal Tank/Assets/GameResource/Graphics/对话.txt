@@ -1,0 +1,6 @@
+It looks like Tardis has sent us to the 19th century.
+Dr.Alchemus wants to create chemical monsters to change history.
+We need to defeat him. I'll tell you how.
+Now there are two kinds of bases Hydrogen (H) and Oxygen (O) appeared, we need to destroy all of them.
+Besides that there are three different enemies, the green one is hydrogen (H2), the yellow one is oxygen (O2) and the blue one is water (H2O).
+We have two types of bullets, the one fired with the left mouse button, which only defeats H2O, and the one fired with the right mouse button, which only destroys H2 and O2. we need to destroy at least 15 enemies.
