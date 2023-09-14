@@ -60,6 +60,11 @@
     <Compile Include="Assets\Scripts\Text_Repetition.cs" />
     <Compile Include="Assets\Scripts\Win.cs" />
     <Compile Include="Assets\Scripts\AirshipMove.cs" />
+    <Compile Include="Assets\Scripts\UILevel2.cs" />
+    <Compile Include="Assets\Scripts\UILevel1.cs" />
+    <Compile Include="Assets\Scripts\Pacdot_2.cs" />
+    <Compile Include="Assets\Scripts\Text_Repetition2.cs" />
+    <Compile Include="Assets\Scripts\Win2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
